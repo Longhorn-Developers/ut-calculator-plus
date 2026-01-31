@@ -1,4 +1,6 @@
-Welcome to your new TanStack app! 
+# UT Calculator Plus
+
+The best divsion tool in Texas!
 
 # Getting Started
 
